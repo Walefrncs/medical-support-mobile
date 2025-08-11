@@ -1,0 +1,19 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+pubspec.lock
+build/
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Android Studio
+.gradle/
+local.properties
+
+# iOS
+ios/Flutter/Flutter.podspec
+ios/Pods
